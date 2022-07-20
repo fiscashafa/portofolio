@@ -1,0 +1,30 @@
+.bagian-nama {
+    padding-top: 90px;
+}
+
+.navbar {
+    background-color: white;
+    margin-left: 640px;
+    word-spacing: 80em;
+}
+
+.nama {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.nama-navbar {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.mahasiswa {
+    font-family: 'Oswald', sans-serif;
+    font-size: 55px;
+}
+
+.tentang {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    padding-top: 15px;
+}
+
